@@ -24,9 +24,23 @@ body {
 
 .bodycont {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     padding: 50px;
     background-color: #393E46;
     width: 500px;
     border-radius: 15px;
+    gap: 10px
+}
+
+.link {
+    padding: 25px;
+    background-color: #EEEEEE;
+    gap: 10px;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #222831;
 }
