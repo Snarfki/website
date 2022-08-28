@@ -1,0 +1,12 @@
+body {
+    background-color: #1d3557;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+
+.headercont {
+    background-color: #457b9d;
+    color: #f1faee;
+}
